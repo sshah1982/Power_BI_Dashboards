@@ -46,4 +46,8 @@ Exact steps performed (With Power Query):
 
 (7)	Score is out of 10 and requires cleaning. Replace and discard all values with average score (5) as it is a numeric field.
 
+Preview:
+
+<img src="assets/Dashboard_Preview.png" alt=""/>
+
 
