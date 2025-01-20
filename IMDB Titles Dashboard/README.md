@@ -26,7 +26,7 @@ Exact steps performed (With Power Query):
 
 (1) Release Year would require several transformations.
 -	Converting all dates to year
--	
+  
 (2)	Duration is in minutes. Would require several transformations:
 -	Replace Inf, NaN, Not Applicable, - and Blanks with 0. (Duration can never be 0 but here 0 means Unknown).
   
